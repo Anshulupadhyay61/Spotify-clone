@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Speaker base -->
+  <path d="M16 24H8V40H16L28 52V12L16 24Z" fill="#000000"/>
+  
+  <!-- Mute cross -->
+  <line x1="40" y1="24" x2="56" y2="40" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="56" y1="24" x2="40" y2="40" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+</svg>
