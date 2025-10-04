@@ -1,0 +1,7 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Vertical bar (start of previous track) -->
+  <rect x="25" y="30" width="6" height="40" fill="black" />
+
+  <!-- Left-pointing triangle -->
+  <polygon points="70,30 40,50 70,70" fill="black" />
+</svg>
